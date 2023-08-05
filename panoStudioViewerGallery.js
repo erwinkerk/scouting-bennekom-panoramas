@@ -3,14 +3,6 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "buiten.js",
-            "location": {
-                "heading": 2.57
-            },
-            "text": "Buitenterrein",
-            "thumbnail": "buiten_tiles/buiten_thumb.jpg"
-        },
-        {
             "href": "beukenbos-1.js",
             "location": {
                 "heading": 21.69
@@ -22,6 +14,14 @@ PanoramaStudioViewerParams = {
             "href": "beukenbos-2.js",
             "text": "Beukenbos",
             "thumbnail": "beukenbos-2_tiles/beukenbos-2_thumb.jpg"
+        },
+        {
+            "href": "buiten.js",
+            "location": {
+                "heading": 2.57
+            },
+            "text": "Buitenterrein",
+            "thumbnail": "buiten_tiles/buiten_thumb.jpg"
         },
         {
             "href": "inrit.js",
@@ -46,14 +46,6 @@ PanoramaStudioViewerParams = {
             },
             "text": "Middenterrein 1",
             "thumbnail": "middenterrein-1_tiles/middenterrein-1_thumb.jpg"
-        },
-        {
-            "href": "pad-splitsing.js",
-            "location": {
-                "heading": 90.16
-            },
-            "text": "Splitsing",
-            "thumbnail": "pad-splitsing_tiles/pad-splitsing_thumb.jpg"
         },
         {
             "href": "pad.js",
