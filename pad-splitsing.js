@@ -34,34 +34,51 @@ PanoramaStudioViewerParams = {
 	"hotspot": [
 	        {
 	            "animation": {
-	                "duration": 1.0667,
+	                "duration": 1.28,
 	                "frames": 32,
-	                "height": 42,
-	                "width": 102
+	                "height": 64,
+	                "width": 64
 	            },
-	            "bitmap": "pap_perspectiveArrow.png",
+	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
+	            "href": "pad.html",
 	            "opacity": "1.00;1.00",
-	            "position": "198.9184,4.1166",
+	            "position": "37.3888,6.3159",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
 	        {
 	            "animation": {
-	                "duration": 1.0667,
+	                "duration": 1.28,
 	                "frames": 32,
-	                "height": 42,
-	                "width": 102
+	                "height": 64,
+	                "width": 64
 	            },
-	            "bitmap": "pap_perspectiveArrow.png",
+	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "pad-halverwege.html",
+	            "href": "middenterrein-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "40.3213,9.7372",
+	            "position": "198.4297,2.1616",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "buiten.html",
+	            "opacity": "1.00;1.00",
+	            "position": "257.0789,2.6503",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -79,15 +96,15 @@ PanoramaStudioViewerParams = {
 	        {
 	            "align": "top",
 	            "style": " color:#ffffff; font-family: Arial,Helvetica,sans-serif; text-shadow: 0px 0px 3.8px #000000, 0px 0px 2.5px #000000, 0px 0px 1.7px #000000; font-size: 12px; font-weight: bold; text-align:center;",
-	            "text": "Pad bij Splitsing",
+	            "text": "Splitsing",
 	            "yoff": "4px"
 	        }
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 180,
-	        "shortdescription": "Pad bij Splitsing",
-	        "tilt": 0
+	        "pan": 219.15,
+	        "shortdescription": "Splitsing",
+	        "tilt": 6.27
 	    }
 },
 "version": "4.1"

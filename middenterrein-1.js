@@ -42,71 +42,60 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "javascript:",
-	            "hsinfo": {
-	                "align": "center",
-	                "captureMouse": true,
-	                "checkHover": true,
-	                "id": "hsinfo0",
-	                "maxwidth": "66%",
-	                "onclick": "function(){ this.viewer.action('hideMessage'); } ",
-	                "style": "min-width: 25%; text-shadow: none; line-height: 100%; color:#000; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 400; text-align:left; border-radius: 3px; border: rgba(0,0,0,0.66) solid 1px; box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.66);background: rgba(255,255,255,0.75);",
-	                "text": "<div style='padding: 16px;'>Hogan</div>",
-	                "xoff": 0,
-	                "yoff": -30
-	            },
-	            "onclick": "function(){ this.viewer.action('toggleMessage',this.hsinfo); }",
-	            "opacity": "1.00;1.00",
-	            "position": "59.2250,0.3565",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
-	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "bevers.html",
-	            "opacity": "1.00;1.00",
-	            "position": "135.5812,0.1117",
-	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
-	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
 	            "href": "kampvuurkuil.html",
 	            "opacity": "1.00;1.00",
-	            "position": "81.9850,1.3353",
+	            "position": "75.3773,0.6012",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
 	        {
 	            "animation": {
-	                "duration": 1.0667,
+	                "duration": 1.28,
 	                "frames": 32,
-	                "height": 34,
-	                "width": 72
+	                "height": 64,
+	                "width": 64
 	            },
-	            "bitmap": "pap_runningArrowRight.png",
+	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "pad-splitsing.html",
+	            "href": "splitsing.html",
 	            "opacity": "1.00;1.00",
-	            "position": "194.8063,11.3688",
+	            "position": "225.8872,2.0695",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "buiten.html",
+	            "opacity": "1.00;1.00",
+	            "position": "166.4174,1.0906",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "beukenbos-1.html",
+	            "opacity": "1.00;1.00",
+	            "position": "91.0401,-0.3777",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -130,9 +119,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 180,
+	        "pan": 113.15,
 	        "shortdescription": "Middenterrein 1",
-	        "tilt": 0
+	        "tilt": 3.91
 	    }
 },
 "version": "4.1"

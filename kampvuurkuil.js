@@ -34,17 +34,17 @@ PanoramaStudioViewerParams = {
 	"hotspot": [
 	        {
 	            "animation": {
-	                "duration": 1.0667,
+	                "duration": 1.28,
 	                "frames": 32,
-	                "height": 42,
-	                "width": 102
+	                "height": 64,
+	                "width": 64
 	            },
-	            "bitmap": "pap_perspectiveArrow.png",
+	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "beukenbos.html",
+	            "href": "beukenbos-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "157.6678,1.5489",
+	            "position": "127.8915,-2.6004",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -59,26 +59,9 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "bevers.html",
-	            "opacity": "1.00;1.00",
-	            "position": "230.6441,-2.3563",
-	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.0667,
-	                "frames": 32,
-	                "height": 42,
-	                "width": 102
-	            },
-	            "bitmap": "pap_perspectiveArrow.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
 	            "href": "middenterrein-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "305.0847,-1.6241",
+	            "position": "296.7864,-3.3326",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -102,9 +85,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 180,
+	        "pan": 163.7,
 	        "shortdescription": "Kampvuurkuil",
-	        "tilt": 0
+	        "tilt": 19.25
 	    }
 },
 "version": "4.1"
