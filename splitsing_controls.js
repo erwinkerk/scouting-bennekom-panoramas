@@ -14,10 +14,6 @@ PanoramaStudioViewerParams = {
             "id": "hideGallery"
         },
         {
-            "func": "function(c){  c.translate(c.canvas.width/2.0,c.canvas.height/2.0); c.rotate(Math.PI); c.translate(-c.canvas.width/2.0,-c.canvas.height/2.0); }",
-            "id": "rotateCanvas"
-        },
-        {
             "func": "function(a){ var id = this.viewer.currentMBId; if (!!id&&(a.id!=id)){this.viewer.action('hideMessage');} if (a.id!=id){ var s=this.viewer.get('globalData'); if (s&&s.messageBoxStyle){ a.style = s.messageBoxStyle; }this.viewer.currentMBId=null; if (!this.viewer.isVRModeEnabled()){ this.viewer.add('textbox',a); this.viewer.currentMBId=a.id; } } }",
             "id": "showMessage"
         },
@@ -266,7 +262,7 @@ PanoramaStudioViewerParams = {
 "events": {
         "id": "mainEvents",
         "onexit": "function(){  var d=this.viewer.get('localData'); if (!!d&&d.infoTextBox){ this.viewer.action('hideMessage'); } this.viewer.gyroWasEnabled = this.viewer.gyroAvailable&&this.viewer.gyroscopeEnabled();\t}",
-        "ongyroscopeavailable": "function(available){ this.viewer.gyroAvailable = available; var o = this.get('gyrobutton'); if(!!o){ o.setVisible(available&&this.viewer.panoType()==0); } } ",
+        "ongyroscopeavailable": "function(available){ this.viewer.gyroAvailable = available; var o = this.get('gyrobutton'); if(!!o){ o.setVisible(available&&this.viewer.panoType()==0); available&&o.onclick(); } } ",
         "ongyroscopetoggle": "function(enabled){ this.viewer.action('updateGyroButton'); }",
         "oninit": "function(){ var g = this.viewer.gallery(); this.viewer.hasGallery = ((!!g) && g.length>1); this.viewer.checkForGyroscope(); }",
         "onplay": "function(){ var o = this.get('playbutton'); if (!!o){ o.sbackup = o.skin;  o.sabackup = o.skinactive; o.skin = 'shadow(3,2,2,rgba(0,0,0,1));copy(defaultSkin,128,0,64,64,0,0,28,28);shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,128,0,64,64,0,0,28,28)'; o.skinactive = 'shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,128,0,64,64,1,1,28,28)'; o.updateSkins(); } } ",
@@ -277,22 +273,6 @@ PanoramaStudioViewerParams = {
         "onstopaudio": "function(senderId){ if (senderId=='gAudio'||senderId=='lAudio'){var o = this.get('audiobutton'); if (!!o){ o.skin = o.pauseskin; o.skinhover = o.pauseskinhover; o.skinactive = o.pauseskinactive; o.updateSkins(); }} } ",
         "onuseswebgl": "function(available){ this.viewer.webglAvailable = available; if (available){ var vr = this.get('vrButton'); vr&&vr.setVisible(true); } } "
     },
-"orientation": [
-        {
-            "align": "lefttop",
-            "height": 60,
-            "id": "compass",
-            "onclick": "function(){ this.viewer.panTo(180-this.viewer.location().heading,this.viewer.getView().tilt,this.viewer.getView().hfov,1.5,0,'easeInOutSine',false); }",
-            "rotatedial": false,
-            "skindial": "shadow(3,0,0,rgba(0,0,0,1));copy(defaultCompass,384,0,128,128,0,0,60,60);copy(defaultCompass,0,0,128,128,10,10,40,40);",
-            "skinframe": "shadow(3,0,0,rgba(0,0,0,1));copy(defaultCompass,256,0,128,128,0,0,60,60);",
-            "skinneedle": "shadow(3,0,0,rgba(0,0,0,1)); copy(defaultCompass,128,0,128,128,0,0,60,60,#ffffff,rotateCanvas); copy(defaultCompass,128,0,128,128,0,0,60,60,#ff0000); shadow(3,0,0,rgba(0,0,0,1)); copy(defaultCompass,128,0,128,128,0,0,60,60,#ffffff,rotateCanvas);",
-            "type": "compass",
-            "width": 60,
-            "xoff": 8,
-            "yoff": 8
-        }
-    ],
 "settings": {
         "safeareamargin": "-8 -8 -8 -8"
     }

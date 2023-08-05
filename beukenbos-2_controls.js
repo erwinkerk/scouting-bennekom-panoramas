@@ -262,7 +262,7 @@ PanoramaStudioViewerParams = {
 "events": {
         "id": "mainEvents",
         "onexit": "function(){  var d=this.viewer.get('localData'); if (!!d&&d.infoTextBox){ this.viewer.action('hideMessage'); } this.viewer.gyroWasEnabled = this.viewer.gyroAvailable&&this.viewer.gyroscopeEnabled();\t}",
-        "ongyroscopeavailable": "function(available){ this.viewer.gyroAvailable = available; var o = this.get('gyrobutton'); if(!!o){ o.setVisible(available&&this.viewer.panoType()==0); } } ",
+        "ongyroscopeavailable": "function(available){ this.viewer.gyroAvailable = available; var o = this.get('gyrobutton'); if(!!o){ o.setVisible(available&&this.viewer.panoType()==0); available&&o.onclick(); } } ",
         "ongyroscopetoggle": "function(enabled){ this.viewer.action('updateGyroButton'); }",
         "oninit": "function(){ var g = this.viewer.gallery(); this.viewer.hasGallery = ((!!g) && g.length>1); this.viewer.checkForGyroscope(); }",
         "onplay": "function(){ var o = this.get('playbutton'); if (!!o){ o.sbackup = o.skin;  o.sabackup = o.skinactive; o.skin = 'shadow(3,2,2,rgba(0,0,0,1));copy(defaultSkin,128,0,64,64,0,0,28,28);shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,128,0,64,64,0,0,28,28)'; o.skinactive = 'shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,128,0,64,64,1,1,28,28)'; o.updateSkins(); } } ",
