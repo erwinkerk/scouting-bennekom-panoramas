@@ -3,15 +3,15 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "inrit.js",
+            "href": "selterskampweg.js",
             "location": {
-                "alt": 67.853,
-                "heading": 312.48,
-                "lat": 52.009245972222224,
-                "lon": 5.685661972222222
+                "alt": 65.958,
+                "heading": 90.33000183105469,
+                "lat": 52.009197,
+                "lon": 5.685343972222222
             },
-            "text": "Inrit",
-            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
+            "text": "Selterskampweg",
+            "thumbnail": "selterskampweg_tiles/selterskampweg_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
@@ -46,6 +46,17 @@ PanoramaStudioViewerParams = {
             "thumbnail": "buiten_tiles/buiten_thumb.jpg"
         },
         {
+            "href": "inrit.js",
+            "location": {
+                "alt": 67.853,
+                "heading": 312.48,
+                "lat": 52.009245972222224,
+                "lon": 5.685661972222222
+            },
+            "text": "Inrit",
+            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
+        },
+        {
             "href": "kampvuurkuil.js",
             "location": {
                 "alt": 81.009,
@@ -77,17 +88,6 @@ PanoramaStudioViewerParams = {
             },
             "text": "Pad",
             "thumbnail": "pad_tiles/pad_thumb.jpg"
-        },
-        {
-            "href": "selterskampweg.js",
-            "location": {
-                "alt": 65.958,
-                "heading": 90.33000183105469,
-                "lat": 52.009197,
-                "lon": 5.685343972222222
-            },
-            "text": "Selterskampweg",
-            "thumbnail": "selterskampweg_tiles/selterskampweg_thumb.jpg"
         },
         {
             "href": "splitsing.js",
