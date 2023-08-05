@@ -68,9 +68,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 180,
+	        "pan": 154.75,
 	        "shortdescription": "Selterskampweg",
-	        "tilt": 0
+	        "tilt": 4.13
 	    }
 },
 "version": "4.1"
