@@ -46,6 +46,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "130.2257,4.3652",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Buitenterrein"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -61,8 +66,13 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "beukenbos-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "259.7238,5.8202",
+	            "position": "248.5685,3.6377",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Beukenbos"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }
@@ -72,6 +82,12 @@ PanoramaStudioViewerParams = {
 	    },
 	"id": "beukenbos-2",
 	"image":{"baseindex":1,"bitmap":[{"back":{"src":"beukenbos-2_tiles/beukenbos-2_t_1b_%0y_%0x.jpg"},"down":{"src":"beukenbos-2_tiles/beukenbos-2_t_1d_%0y_%0x.jpg"},"front":{"src":"beukenbos-2_tiles/beukenbos-2_t_1f_%0y_%0x.jpg"},"height":5670,"left":{"src":"beukenbos-2_tiles/beukenbos-2_t_1l_%0y_%0x.jpg"},"right":{"src":"beukenbos-2_tiles/beukenbos-2_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"beukenbos-2_tiles/beukenbos-2_t_1u_%0y_%0x.jpg"},"width":5670},{"back":{"src":"beukenbos-2_tiles/beukenbos-2_t_2b_%0y_%0x.jpg"},"down":{"src":"beukenbos-2_tiles/beukenbos-2_t_2d_%0y_%0x.jpg"},"front":{"src":"beukenbos-2_tiles/beukenbos-2_t_2f_%0y_%0x.jpg"},"height":2835,"left":{"src":"beukenbos-2_tiles/beukenbos-2_t_2l_%0y_%0x.jpg"},"right":{"src":"beukenbos-2_tiles/beukenbos-2_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"beukenbos-2_tiles/beukenbos-2_t_2u_%0y_%0x.jpg"},"width":2835},{"back":{"src":"beukenbos-2_tiles/beukenbos-2_t_3b_%0y_%0x.jpg"},"down":{"src":"beukenbos-2_tiles/beukenbos-2_t_3d_%0y_%0x.jpg"},"front":{"src":"beukenbos-2_tiles/beukenbos-2_t_3f_%0y_%0x.jpg"},"height":1418,"left":{"src":"beukenbos-2_tiles/beukenbos-2_t_3l_%0y_%0x.jpg"},"right":{"src":"beukenbos-2_tiles/beukenbos-2_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"beukenbos-2_tiles/beukenbos-2_t_3u_%0y_%0x.jpg"},"width":1418},{"back":{"src":"beukenbos-2_tiles/beukenbos-2_t_4b_%0y_%0x.jpg"},"down":{"src":"beukenbos-2_tiles/beukenbos-2_t_4d_%0y_%0x.jpg"},"front":{"src":"beukenbos-2_tiles/beukenbos-2_t_4f_%0y_%0x.jpg"},"height":709,"left":{"src":"beukenbos-2_tiles/beukenbos-2_t_4l_%0y_%0x.jpg"},"right":{"src":"beukenbos-2_tiles/beukenbos-2_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"beukenbos-2_tiles/beukenbos-2_t_4u_%0y_%0x.jpg"},"width":709},{"back":{"src":"beukenbos-2_tiles/beukenbos-2_t_5b_%0y_%0x.jpg"},"down":{"src":"beukenbos-2_tiles/beukenbos-2_t_5d_%0y_%0x.jpg"},"front":{"src":"beukenbos-2_tiles/beukenbos-2_t_5f_%0y_%0x.jpg"},"height":355,"left":{"src":"beukenbos-2_tiles/beukenbos-2_t_5l_%0y_%0x.jpg"},"right":{"src":"beukenbos-2_tiles/beukenbos-2_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"beukenbos-2_tiles/beukenbos-2_t_5u_%0y_%0x.jpg"},"width":355}],"multilevel":true,"preview":{"src":"beukenbos-2_tiles/beukenbos-2_preview.jpg"},"projection":"cubic"},
+	"location": {
+	        "alt": 65.816,
+	        "heading": 275,
+	        "lat": 52.010122,
+	        "lon": 5.6873659722222225
+	    },
 	"textbox": [
 	        {
 	            "align": "top",

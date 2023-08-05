@@ -72,6 +72,12 @@ PanoramaStudioViewerParams = {
 	    },
 	"id": "inrit",
 	"image":{"baseindex":1,"bitmap":[{"back":{"src":"inrit_tiles/inrit_t_1b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_1d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_1f_%0y_%0x.jpg"},"height":5643,"left":{"src":"inrit_tiles/inrit_t_1l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_1u_%0y_%0x.jpg"},"width":5643},{"back":{"src":"inrit_tiles/inrit_t_2b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_2d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_2f_%0y_%0x.jpg"},"height":2822,"left":{"src":"inrit_tiles/inrit_t_2l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_2u_%0y_%0x.jpg"},"width":2822},{"back":{"src":"inrit_tiles/inrit_t_3b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_3d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_3f_%0y_%0x.jpg"},"height":1411,"left":{"src":"inrit_tiles/inrit_t_3l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_3u_%0y_%0x.jpg"},"width":1411},{"back":{"src":"inrit_tiles/inrit_t_4b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_4d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_4f_%0y_%0x.jpg"},"height":706,"left":{"src":"inrit_tiles/inrit_t_4l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_4u_%0y_%0x.jpg"},"width":706},{"back":{"src":"inrit_tiles/inrit_t_5b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_5d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_5f_%0y_%0x.jpg"},"height":353,"left":{"src":"inrit_tiles/inrit_t_5l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_5u_%0y_%0x.jpg"},"width":353}],"multilevel":true,"preview":{"src":"inrit_tiles/inrit_preview.jpg"},"projection":"cubic"},
+	"location": {
+	        "alt": 67.853,
+	        "heading": 312.48,
+	        "lat": 52.009245972222224,
+	        "lon": 5.685661972222222
+	    },
 	"textbox": [
 	        {
 	            "align": "top",
