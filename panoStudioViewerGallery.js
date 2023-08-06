@@ -3,102 +3,109 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "selterskampweg.js",
-            "location": {
-                "alt": 65.958,
-                "heading": 90.33000183105469,
-                "lat": 52.009197,
-                "lon": 5.685343972222222
-            },
-            "text": "Selterskampweg",
-            "thumbnail": "selterskampweg_tiles/selterskampweg_thumb.jpg"
+            "href": "toilet.js",
+            "text": "Toilet",
+            "thumbnail": "toilet_tiles/toilet_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
-            "location": {
-                "alt": 76.886,
-                "heading": 235,
-                "lat": 52.010283,
-                "lon": 5.68719397
-            },
             "text": "Beukenbos",
             "thumbnail": "beukenbos-1_tiles/beukenbos-1_thumb.jpg"
         },
         {
             "href": "beukenbos-2.js",
-            "location": {
-                "alt": 65.816,
-                "heading": 275,
-                "lat": 52.010122,
-                "lon": 5.6873659722222225
-            },
             "text": "Beukenbos",
             "thumbnail": "beukenbos-2_tiles/beukenbos-2_thumb.jpg"
         },
         {
+            "href": "bevers.js",
+            "text": "Bevers",
+            "thumbnail": "bevers_tiles/bevers_thumb.jpg"
+        },
+        {
             "href": "buiten.js",
-            "location": {
-                "heading": 25,
-                "lat": 52.00989089,
-                "lon": 5.6870402057833385
-            },
             "text": "Buitenterrein",
             "thumbnail": "buiten_tiles/buiten_thumb.jpg"
         },
         {
+            "href": "douche.js",
+            "text": "Douche",
+            "thumbnail": "douche_tiles/douche_thumb.jpg"
+        },
+        {
+            "href": "entree.js",
+            "text": "e`ntree",
+            "thumbnail": "entree_tiles/entree_thumb.jpg"
+        },
+        {
+            "href": "gang-1.js",
+            "text": "Gang",
+            "thumbnail": "gang-1_tiles/gang-1_thumb.jpg"
+        },
+        {
+            "href": "gang-2.js",
+            "text": "Gang",
+            "thumbnail": "gang-2_tiles/gang-2_thumb.jpg"
+        },
+        {
             "href": "inrit.js",
-            "location": {
-                "alt": 67.853,
-                "heading": 312.48,
-                "lat": 52.009245972222224,
-                "lon": 5.685661972222222
-            },
             "text": "Inrit",
             "thumbnail": "inrit_tiles/inrit_thumb.jpg"
         },
         {
             "href": "kampvuurkuil.js",
-            "location": {
-                "alt": 81.009,
-                "heading": 113.12,
-                "lat": 52.01025897,
-                "lon": 5.686923
-            },
             "text": "Kampvuurkuil",
             "thumbnail": "kampvuurkuil_tiles/kampvuurkuil_thumb.jpg"
         },
         {
+            "href": "keuken.js",
+            "text": "Keuken",
+            "thumbnail": "keuken_tiles/keuken_thumb.jpg"
+        },
+        {
             "href": "middenterrein-1.js",
-            "location": {
-                "alt": 71.16999816894531,
-                "heading": 150,
-                "lat": 52.010114,
-                "lon": 5.686644
-            },
             "text": "Middenterrein",
             "thumbnail": "middenterrein-1_tiles/middenterrein-1_thumb.jpg"
         },
         {
             "href": "pad.js",
-            "location": {
-                "alt": 73.349,
-                "heading": 259,
-                "lat": 52.00951897,
-                "lon": 5.686238972222222
-            },
             "text": "Pad",
             "thumbnail": "pad_tiles/pad_thumb.jpg"
         },
         {
+            "href": "padvindsters.js",
+            "text": "Padvindsters",
+            "thumbnail": "padvindsters_tiles/padvindsters_thumb.jpg"
+        },
+        {
+            "href": "selterskampweg.js",
+            "text": "Selterskampweg",
+            "thumbnail": "selterskampweg_tiles/selterskampweg_thumb.jpg"
+        },
+        {
+            "href": "shanti-1.js",
+            "text": "Shantiwelpen",
+            "thumbnail": "shanti-1_tiles/shanti-1_thumb.jpg"
+        },
+        {
+            "href": "shanti-2.js",
+            "text": "Shantiwelpen",
+            "thumbnail": "shanti-2_tiles/shanti-2_thumb.jpg"
+        },
+        {
             "href": "splitsing.js",
-            "location": {
-                "alt": 77.307,
-                "heading": 35,
-                "lat": 52.00995,
-                "lon": 5.686505972222222
-            },
             "text": "Splitsing",
             "thumbnail": "splitsing_tiles/splitsing_thumb.jpg"
+        },
+        {
+            "href": "tunneltje.js",
+            "text": "Tunneltje",
+            "thumbnail": "tunneltje_tiles/tunneltje_thumb.jpg"
+        },
+        {
+            "href": "welpen.js",
+            "text": "Beukenbos",
+            "thumbnail": "welpen_tiles/welpen_thumb.jpg"
         }
     ]
 }

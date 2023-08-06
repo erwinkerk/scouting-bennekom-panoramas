@@ -95,7 +95,41 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "welpen.html",
 	            "opacity": "1.00;1.00",
-	            "position": "108.8419,0.0736",
+	            "position": "108.8419,-1.1465",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "shanti-2.html",
+	            "opacity": "1.00;1.00",
+	            "position": "140.5672,-0.1704",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "padvindsters.html",
+	            "opacity": "1.00;1.00",
+	            "position": "178.8815,-1.1465",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -106,11 +140,6 @@ PanoramaStudioViewerParams = {
 	    },
 	"id": "buiten",
 	"image":{"baseindex":1,"bitmap":[{"back":{"src":"buiten_tiles/buiten_t_1b_%0y_%0x.jpg"},"down":{"src":"buiten_tiles/buiten_t_1d_%0y_%0x.jpg"},"front":{"src":"buiten_tiles/buiten_t_1f_%0y_%0x.jpg"},"height":5634,"left":{"src":"buiten_tiles/buiten_t_1l_%0y_%0x.jpg"},"right":{"src":"buiten_tiles/buiten_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"buiten_tiles/buiten_t_1u_%0y_%0x.jpg"},"width":5634},{"back":{"src":"buiten_tiles/buiten_t_2b_%0y_%0x.jpg"},"down":{"src":"buiten_tiles/buiten_t_2d_%0y_%0x.jpg"},"front":{"src":"buiten_tiles/buiten_t_2f_%0y_%0x.jpg"},"height":2817,"left":{"src":"buiten_tiles/buiten_t_2l_%0y_%0x.jpg"},"right":{"src":"buiten_tiles/buiten_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"buiten_tiles/buiten_t_2u_%0y_%0x.jpg"},"width":2817},{"back":{"src":"buiten_tiles/buiten_t_3b_%0y_%0x.jpg"},"down":{"src":"buiten_tiles/buiten_t_3d_%0y_%0x.jpg"},"front":{"src":"buiten_tiles/buiten_t_3f_%0y_%0x.jpg"},"height":1409,"left":{"src":"buiten_tiles/buiten_t_3l_%0y_%0x.jpg"},"right":{"src":"buiten_tiles/buiten_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"buiten_tiles/buiten_t_3u_%0y_%0x.jpg"},"width":1409},{"back":{"src":"buiten_tiles/buiten_t_4b_%0y_%0x.jpg"},"down":{"src":"buiten_tiles/buiten_t_4d_%0y_%0x.jpg"},"front":{"src":"buiten_tiles/buiten_t_4f_%0y_%0x.jpg"},"height":705,"left":{"src":"buiten_tiles/buiten_t_4l_%0y_%0x.jpg"},"right":{"src":"buiten_tiles/buiten_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"buiten_tiles/buiten_t_4u_%0y_%0x.jpg"},"width":705},{"back":{"src":"buiten_tiles/buiten_t_5b_%0y_%0x.jpg"},"down":{"src":"buiten_tiles/buiten_t_5d_%0y_%0x.jpg"},"front":{"src":"buiten_tiles/buiten_t_5f_%0y_%0x.jpg"},"height":353,"left":{"src":"buiten_tiles/buiten_t_5l_%0y_%0x.jpg"},"right":{"src":"buiten_tiles/buiten_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"buiten_tiles/buiten_t_5u_%0y_%0x.jpg"},"width":353}],"multilevel":true,"preview":{"src":"buiten_tiles/buiten_preview.jpg"},"projection":"cubic"},
-	"location": {
-	        "heading": 25,
-	        "lat": 52.00989089,
-	        "lon": 5.6870402057833385
-	    },
 	"textbox": [
 	        {
 	            "align": "top",

@@ -27,9 +27,9 @@ PanoramaStudioViewerParams = {
 	    },
 	"camera": {
 	        "maxpan": 360,
-	        "maxtilt": 58.06809686123704,
+	        "maxtilt": 58.0211491863079,
 	        "minpan": 0,
-	        "mintilt": -46.359448967247104
+	        "mintilt": -46.41833160276365
 	    },
 	"hotspot": [
 	        {
@@ -44,7 +44,7 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "selterskampweg.html",
 	            "opacity": "1.00;1.00",
-	            "position": "128.6497,10.1691",
+	            "position": "123.7906,6.7051",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -61,7 +61,7 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "pad.html",
 	            "opacity": "1.00;1.00",
-	            "position": "287.7563,-0.3082",
+	            "position": "282.4278,-0.3618",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -71,13 +71,7 @@ PanoramaStudioViewerParams = {
 	        "visible": true
 	    },
 	"id": "inrit",
-	"image":{"baseindex":1,"bitmap":[{"back":{"src":"inrit_tiles/inrit_t_1b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_1d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_1f_%0y_%0x.jpg"},"height":5643,"left":{"src":"inrit_tiles/inrit_t_1l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_1u_%0y_%0x.jpg"},"width":5643},{"back":{"src":"inrit_tiles/inrit_t_2b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_2d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_2f_%0y_%0x.jpg"},"height":2822,"left":{"src":"inrit_tiles/inrit_t_2l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_2u_%0y_%0x.jpg"},"width":2822},{"back":{"src":"inrit_tiles/inrit_t_3b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_3d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_3f_%0y_%0x.jpg"},"height":1411,"left":{"src":"inrit_tiles/inrit_t_3l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_3u_%0y_%0x.jpg"},"width":1411},{"back":{"src":"inrit_tiles/inrit_t_4b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_4d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_4f_%0y_%0x.jpg"},"height":706,"left":{"src":"inrit_tiles/inrit_t_4l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_4u_%0y_%0x.jpg"},"width":706},{"back":{"src":"inrit_tiles/inrit_t_5b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_5d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_5f_%0y_%0x.jpg"},"height":353,"left":{"src":"inrit_tiles/inrit_t_5l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_5u_%0y_%0x.jpg"},"width":353}],"multilevel":true,"preview":{"src":"inrit_tiles/inrit_preview.jpg"},"projection":"cubic"},
-	"location": {
-	        "alt": 67.853,
-	        "heading": 312.48,
-	        "lat": 52.009245972222224,
-	        "lon": 5.685661972222222
-	    },
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"inrit_tiles/inrit_t_1b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_1d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_1f_%0y_%0x.jpg"},"height":5642,"left":{"src":"inrit_tiles/inrit_t_1l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_1u_%0y_%0x.jpg"},"width":5642},{"back":{"src":"inrit_tiles/inrit_t_2b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_2d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_2f_%0y_%0x.jpg"},"height":2821,"left":{"src":"inrit_tiles/inrit_t_2l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_2u_%0y_%0x.jpg"},"width":2821},{"back":{"src":"inrit_tiles/inrit_t_3b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_3d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_3f_%0y_%0x.jpg"},"height":1411,"left":{"src":"inrit_tiles/inrit_t_3l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_3u_%0y_%0x.jpg"},"width":1411},{"back":{"src":"inrit_tiles/inrit_t_4b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_4d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_4f_%0y_%0x.jpg"},"height":706,"left":{"src":"inrit_tiles/inrit_t_4l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_4u_%0y_%0x.jpg"},"width":706},{"back":{"src":"inrit_tiles/inrit_t_5b_%0y_%0x.jpg"},"down":{"src":"inrit_tiles/inrit_t_5d_%0y_%0x.jpg"},"front":{"src":"inrit_tiles/inrit_t_5f_%0y_%0x.jpg"},"height":353,"left":{"src":"inrit_tiles/inrit_t_5l_%0y_%0x.jpg"},"right":{"src":"inrit_tiles/inrit_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"inrit_tiles/inrit_t_5u_%0y_%0x.jpg"},"width":353}],"multilevel":true,"preview":{"src":"inrit_tiles/inrit_preview.jpg"},"projection":"cubic"},
 	"textbox": [
 	        {
 	            "align": "top",
@@ -88,9 +82,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 283.5,
+	        "pan": 180,
 	        "shortdescription": "Inrit",
-	        "tilt": -3.21
+	        "tilt": 0
 	    }
 },
 "version": "4.1"
