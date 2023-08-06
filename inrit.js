@@ -82,9 +82,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 180,
+	        "pan": 288.22,
 	        "shortdescription": "Inrit",
-	        "tilt": 0
+	        "tilt": 4.85
 	    }
 },
 "version": "4.1"
