@@ -7,7 +7,7 @@ PanoramaStudioViewerParams = {
     },
 "data": {
         "id": "globalData",
-        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#000; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 400; text-align:left; border-radius: 3px; border: rgba(0,0,0,0.66) solid 1px; box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.66);background: rgba(255,255,255,0.75);"
+        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#ffffff; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 100; text-align:left; box-shadow: 4px 4px 1px 0px rgba(0,0,0,0.33);background: rgba(0,0,0,0.66);"
     },
 "include": [
         {
@@ -27,9 +27,9 @@ PanoramaStudioViewerParams = {
 	    },
 	"camera": {
 	        "maxpan": 360,
-	        "maxtilt": 52.18661283064725,
+	        "maxtilt": 54.79099803023185,
 	        "minpan": 0,
-	        "mintilt": -51.71989257358884
+	        "mintilt": -48.460371725362805
 	    },
 	"hotspot": [
 	        {
@@ -42,9 +42,9 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "gang-2.html",
+	            "href": "middenterrein-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "117.8226,2.6626",
+	            "position": "164.5924,2.9004",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -59,9 +59,9 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
+	            "href": "gang-2.html",
 	            "opacity": "1.00;1.00",
-	            "position": "307.6616,1.6827",
+	            "position": "347.7717,2.9004",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -71,7 +71,7 @@ PanoramaStudioViewerParams = {
 	        "visible": true
 	    },
 	"id": "keuken",
-	"image":{"baseindex":1,"bitmap":[{"back":{"src":"keuken_tiles/keuken_t_1b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_1d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_1f_%0y_%0x.jpg"},"height":5613,"left":{"src":"keuken_tiles/keuken_t_1l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_1u_%0y_%0x.jpg"},"width":5613},{"back":{"src":"keuken_tiles/keuken_t_2b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_2d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_2f_%0y_%0x.jpg"},"height":2807,"left":{"src":"keuken_tiles/keuken_t_2l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_2u_%0y_%0x.jpg"},"width":2807},{"back":{"src":"keuken_tiles/keuken_t_3b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_3d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_3f_%0y_%0x.jpg"},"height":1404,"left":{"src":"keuken_tiles/keuken_t_3l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_3u_%0y_%0x.jpg"},"width":1404},{"back":{"src":"keuken_tiles/keuken_t_4b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_4d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_4f_%0y_%0x.jpg"},"height":702,"left":{"src":"keuken_tiles/keuken_t_4l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_4u_%0y_%0x.jpg"},"width":702},{"back":{"src":"keuken_tiles/keuken_t_5b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_5d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_5f_%0y_%0x.jpg"},"height":351,"left":{"src":"keuken_tiles/keuken_t_5l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_5u_%0y_%0x.jpg"},"width":351}],"multilevel":true,"preview":{"src":"keuken_tiles/keuken_preview.jpg"},"projection":"cubic"},
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"keuken_tiles/keuken_t_1b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_1d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_1f_%0y_%0x.jpg"},"height":5622,"left":{"src":"keuken_tiles/keuken_t_1l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_1u_%0y_%0x.jpg"},"width":5622},{"back":{"src":"keuken_tiles/keuken_t_2b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_2d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_2f_%0y_%0x.jpg"},"height":2811,"left":{"src":"keuken_tiles/keuken_t_2l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_2u_%0y_%0x.jpg"},"width":2811},{"back":{"src":"keuken_tiles/keuken_t_3b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_3d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_3f_%0y_%0x.jpg"},"height":1406,"left":{"src":"keuken_tiles/keuken_t_3l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_3u_%0y_%0x.jpg"},"width":1406},{"back":{"src":"keuken_tiles/keuken_t_4b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_4d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_4f_%0y_%0x.jpg"},"height":703,"left":{"src":"keuken_tiles/keuken_t_4l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_4u_%0y_%0x.jpg"},"width":703},{"back":{"src":"keuken_tiles/keuken_t_5b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_5d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_5f_%0y_%0x.jpg"},"height":352,"left":{"src":"keuken_tiles/keuken_t_5l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_5u_%0y_%0x.jpg"},"width":352}],"multilevel":true,"preview":{"src":"keuken_tiles/keuken_preview.jpg"},"projection":"cubic"},
 	"textbox": [
 	        {
 	            "align": "top",
@@ -82,9 +82,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 284.95,
+	        "pan": 192.72,
 	        "shortdescription": "Keuken",
-	        "tilt": 15.85
+	        "tilt": 16.88
 	    }
 },
 "version": "4.1"
