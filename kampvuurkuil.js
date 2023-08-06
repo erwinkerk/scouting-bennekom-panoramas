@@ -61,7 +61,58 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "middenterrein-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "296.7864,-3.3326",
+	            "position": "289.2610,-3.3326",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "bevers.html",
+	            "opacity": "1.00;1.00",
+	            "position": "230.8475,-3.0886",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "splitsing.html",
+	            "opacity": "1.00;1.00",
+	            "position": "261.5593,-2.0716",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "tunneltje.html",
+	            "opacity": "1.00;1.00",
+	            "position": "75.4576,-1.6648",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
