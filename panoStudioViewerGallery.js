@@ -3,9 +3,9 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "inrit.js",
-            "text": "Inrit",
-            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
+            "href": "gang-2.js",
+            "text": "Gang",
+            "thumbnail": "gang-2_tiles/gang-2_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
@@ -43,9 +43,9 @@ PanoramaStudioViewerParams = {
             "thumbnail": "gang-1_tiles/gang-1_thumb.jpg"
         },
         {
-            "href": "gang-2.js",
-            "text": "Gang",
-            "thumbnail": "gang-2_tiles/gang-2_thumb.jpg"
+            "href": "inrit.js",
+            "text": "Inrit",
+            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
         },
         {
             "href": "kampvuurkuil.js",
