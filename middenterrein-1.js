@@ -133,6 +133,23 @@ PanoramaStudioViewerParams = {
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "keuken.html",
+	            "opacity": "1.00;1.00",
+	            "position": "128.1985,-1.9888",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {

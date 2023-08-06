@@ -3,9 +3,9 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "keuken.js",
-            "text": "Keuken",
-            "thumbnail": "keuken_tiles/keuken_thumb.jpg"
+            "href": "middenterrein-1.js",
+            "text": "Middenterrein",
+            "thumbnail": "middenterrein-1_tiles/middenterrein-1_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
@@ -58,9 +58,9 @@ PanoramaStudioViewerParams = {
             "thumbnail": "kampvuurkuil_tiles/kampvuurkuil_thumb.jpg"
         },
         {
-            "href": "middenterrein-1.js",
-            "text": "Middenterrein",
-            "thumbnail": "middenterrein-1_tiles/middenterrein-1_thumb.jpg"
+            "href": "keuken.js",
+            "text": "Keuken",
+            "thumbnail": "keuken_tiles/keuken_thumb.jpg"
         },
         {
             "href": "pad.js",
