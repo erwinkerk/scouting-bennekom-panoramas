@@ -42,7 +42,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "buiten.html",
+	            "href": "buiten-welpen.html",
 	            "opacity": "1.00;1.00",
 	            "position": "151.4373,7.1387",
 	            "target": "",
@@ -93,14 +93,14 @@ PanoramaStudioViewerParams = {
 	        {
 	            "align": "top",
 	            "style": " color:#ffffff; font-family: Arial,Helvetica,sans-serif; text-shadow: 0px 0px 3.8px #000000, 0px 0px 2.5px #000000, 0px 0px 1.7px #000000; font-size: 12px; font-weight: bold; text-align:center;",
-	            "text": "Beukenbos",
+	            "text": "Welpen",
 	            "yoff": "4px"
 	        }
 	    ],
 	"view": {
 	        "hfov": 90,
 	        "pan": 180,
-	        "shortdescription": "Beukenbos",
+	        "shortdescription": "Welpen",
 	        "tilt": 0
 	    }
 },

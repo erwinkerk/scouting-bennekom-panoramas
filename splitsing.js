@@ -59,9 +59,9 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
+	            "href": "poort.html",
 	            "opacity": "1.00;1.00",
-	            "position": "198.4297,2.1616",
+	            "position": "198.5519,2.1616",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -78,8 +78,47 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "buiten.html",
 	            "opacity": "1.00;1.00",
-	            "position": "257.0789,-0.2822",
+	            "position": "259.7669,0.9397",
 	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "buiten-welpen.html",
+	            "opacity": "1.00;1.00",
+	            "position": "251.9471,2.0394",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "drone-1.html",
+	            "opacity": "1.00;1.00",
+	            "position": "190.8542,-10.7903",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Drone\n"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }

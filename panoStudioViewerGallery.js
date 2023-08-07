@@ -3,9 +3,9 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "kampvuurkuil.js",
-            "text": "Kampvuurkuil",
-            "thumbnail": "kampvuurkuil_tiles/kampvuurkuil_thumb.jpg"
+            "href": "inrit.js",
+            "text": "Inrit",
+            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
@@ -23,8 +23,18 @@ PanoramaStudioViewerParams = {
             "thumbnail": "bevers_tiles/bevers_thumb.jpg"
         },
         {
+            "href": "buiten-shanti.js",
+            "text": "Buiten",
+            "thumbnail": "buiten-shanti_tiles/buiten-shanti_thumb.jpg"
+        },
+        {
+            "href": "buiten-welpen.js",
+            "text": "Buiten",
+            "thumbnail": "buiten-welpen_tiles/buiten-welpen_thumb.jpg"
+        },
+        {
             "href": "buiten.js",
-            "text": "Buitenterrein",
+            "text": "Buiten",
             "thumbnail": "buiten_tiles/buiten_thumb.jpg"
         },
         {
@@ -33,8 +43,13 @@ PanoramaStudioViewerParams = {
             "thumbnail": "douche_tiles/douche_thumb.jpg"
         },
         {
+            "href": "drone-1.js",
+            "text": "Drone",
+            "thumbnail": "drone-1_tiles/drone-1_thumb.jpg"
+        },
+        {
             "href": "entree.js",
-            "text": "e`ntree",
+            "text": "Entree",
             "thumbnail": "entree_tiles/entree_thumb.jpg"
         },
         {
@@ -48,9 +63,19 @@ PanoramaStudioViewerParams = {
             "thumbnail": "gang-2_tiles/gang-2_thumb.jpg"
         },
         {
-            "href": "inrit.js",
-            "text": "Inrit",
-            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
+            "href": "kampvuurkuil-1.js",
+            "text": "In de kampvuurkuil",
+            "thumbnail": "kampvuurkuil-1_tiles/kampvuurkuil-1_thumb.jpg"
+        },
+        {
+            "href": "kampvuurkuil-2.js",
+            "text": "Kampvuurkuil van boven",
+            "thumbnail": "kampvuurkuil-2_tiles/kampvuurkuil-2_thumb.jpg"
+        },
+        {
+            "href": "kampvuurkuil-3.js",
+            "text": "Kampvuurkuil - Podium",
+            "thumbnail": "kampvuurkuil-3_tiles/kampvuurkuil-3_thumb.jpg"
         },
         {
             "href": "keuken.js",
@@ -58,9 +83,39 @@ PanoramaStudioViewerParams = {
             "thumbnail": "keuken_tiles/keuken_thumb.jpg"
         },
         {
+            "href": "looppad-1.js",
+            "text": "Looppad",
+            "thumbnail": "looppad-1_tiles/looppad-1_thumb.jpg"
+        },
+        {
+            "href": "looppad-2.js",
+            "text": "Looppad",
+            "thumbnail": "looppad-2_tiles/looppad-2_thumb.jpg"
+        },
+        {
+            "href": "looppad-3.js",
+            "text": "Looppad",
+            "thumbnail": "looppad-3_tiles/looppad-3_thumb.jpg"
+        },
+        {
             "href": "middenterrein-1.js",
             "text": "Middenterrein",
             "thumbnail": "middenterrein-1_tiles/middenterrein-1_thumb.jpg"
+        },
+        {
+            "href": "middenterrein-2.js",
+            "text": "Drone",
+            "thumbnail": "middenterrein-2_tiles/middenterrein-2_thumb.jpg"
+        },
+        {
+            "href": "middenterrein-3.js",
+            "text": "Middenterrein",
+            "thumbnail": "middenterrein-3_tiles/middenterrein-3_thumb.jpg"
+        },
+        {
+            "href": "middenterrein-4.js",
+            "text": "Middenterrein",
+            "thumbnail": "middenterrein-4_tiles/middenterrein-4_thumb.jpg"
         },
         {
             "href": "pad.js",
@@ -73,9 +128,19 @@ PanoramaStudioViewerParams = {
             "thumbnail": "padvindsters_tiles/padvindsters_thumb.jpg"
         },
         {
-            "href": "selterskampweg.js",
-            "text": "Selterskampweg",
-            "thumbnail": "selterskampweg_tiles/selterskampweg_thumb.jpg"
+            "href": "poort.js",
+            "text": "Poort",
+            "thumbnail": "poort_tiles/poort_thumb.jpg"
+        },
+        {
+            "href": "selterskampweg-noord.js",
+            "text": "Selterskampweg - Noord",
+            "thumbnail": "selterskampweg-noord_tiles/selterskampweg-noord_thumb.jpg"
+        },
+        {
+            "href": "selterskampweg-zuid.js",
+            "text": "Selterskampweg - Zuid",
+            "thumbnail": "selterskampweg-zuid_tiles/selterskampweg-zuid_thumb.jpg"
         },
         {
             "href": "shanti-1.js",
@@ -104,7 +169,7 @@ PanoramaStudioViewerParams = {
         },
         {
             "href": "welpen.js",
-            "text": "Beukenbos",
+            "text": "Welpen",
             "thumbnail": "welpen_tiles/welpen_thumb.jpg"
         }
     ]

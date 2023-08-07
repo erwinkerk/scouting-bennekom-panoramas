@@ -76,7 +76,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
+	            "href": "middenterrein-3.html",
 	            "opacity": "1.00;1.00",
 	            "position": "238.9943,4.0473",
 	            "target": "",

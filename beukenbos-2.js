@@ -42,15 +42,10 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "buiten.html",
+	            "href": "buiten-shanti.html",
 	            "opacity": "1.00;1.00",
 	            "position": "130.2257,4.3652",
 	            "target": "",
-	            "textbox": {
-	                "align": "top",
-	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "Buitenterrein"
-	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -89,6 +84,57 @@ PanoramaStudioViewerParams = {
 	            "href": "padvindsters.html",
 	            "opacity": "1.00;1.00",
 	            "position": "145.2610,-0.4847",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "kampvuurkuil-2.html",
+	            "opacity": "1.00;1.00",
+	            "position": "222.7012,-1.1314",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "middenterrein-4.html",
+	            "opacity": "1.00;1.00",
+	            "position": "214.5167,-0.0199",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "tunneltje.html",
+	            "opacity": "1.00;1.00",
+	            "position": "285.7528,0.2832",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"

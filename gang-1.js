@@ -93,7 +93,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
+	            "href": "middenterrein-2.html",
 	            "opacity": "1.00;1.00",
 	            "position": "22.6038,0.7104",
 	            "target": "",
@@ -130,6 +130,23 @@ PanoramaStudioViewerParams = {
 	            "href": "douche.html",
 	            "opacity": "1.00;1.00",
 	            "position": "304.0576,1.1965",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "toilet.html",
+	            "opacity": "1.00;1.00",
+	            "position": "9.7221,1.9257",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"

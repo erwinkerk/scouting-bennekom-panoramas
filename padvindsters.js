@@ -42,7 +42,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "buiten.html",
+	            "href": "buiten-shanti.html",
 	            "opacity": "1.00;1.00",
 	            "position": "290.9248,4.7465",
 	            "target": "",

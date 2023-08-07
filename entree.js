@@ -7,7 +7,7 @@ PanoramaStudioViewerParams = {
     },
 "data": {
         "id": "globalData",
-        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#ffffff; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 100; text-align:left; box-shadow: 4px 4px 1px 0px rgba(0,0,0,0.33);background: rgba(0,0,0,0.66);"
+        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#000; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 400; text-align:left; border-radius: 3px; border: rgba(0,0,0,0.66) solid 1px; box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.66);background: rgba(255,255,255,0.75);"
     },
 "include": [
         {
@@ -59,7 +59,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
+	            "href": "middenterrein-2.html",
 	            "opacity": "1.00;1.00",
 	            "position": "164.2726,10.1371",
 	            "target": "",
@@ -78,8 +78,38 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "gang-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "54.3458,7.1727",
+	            "position": "55.0869,0.0088",
 	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_info_blue.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "javascript:",
+	            "opacity": "1.00;1.00",
+	            "position": "352.0128,1.9850",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Bezemkast"
+	            },
+	            "unit": "deg"
+	        },
+	        {
+	            "bitmap": "pap_info_blue.png",
+	            "bitmapscale": "1.0;1.1",
+	            "bitmaptype": "floating",
+	            "href": "",
+	            "opacity": "1.00;1.00",
+	            "position": "286.7978,-4.6848",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Schoonmaakartikelen"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }
@@ -100,7 +130,7 @@ PanoramaStudioViewerParams = {
 	"view": {
 	        "hfov": 90,
 	        "pan": 73.07,
-	        "shortdescription": "e`ntree",
+	        "shortdescription": "Entree",
 	        "tilt": 11.66
 	    }
 },

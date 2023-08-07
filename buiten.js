@@ -59,7 +59,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
+	            "href": "poort.html",
 	            "opacity": "1.00;1.00",
 	            "position": "86.1462,0.0736",
 	            "target": "",
@@ -133,6 +133,62 @@ PanoramaStudioViewerParams = {
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "buiten-shanti.html",
+	            "opacity": "1.00;1.00",
+	            "position": "173.2686,14.3082",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "buiten-welpen.html",
+	            "opacity": "1.00;1.00",
+	            "position": "80.6960,8.6143",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "drone-1.html",
+	            "opacity": "1.00;1.00",
+	            "position": "86.3902,-14.8117",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Drone"
+	            },
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {
@@ -144,14 +200,14 @@ PanoramaStudioViewerParams = {
 	        {
 	            "align": "top",
 	            "style": " color:#ffffff; font-family: Arial,Helvetica,sans-serif; text-shadow: 0px 0px 3.8px #000000, 0px 0px 2.5px #000000, 0px 0px 1.7px #000000; font-size: 12px; font-weight: bold; text-align:center;",
-	            "text": "Buitenterrein",
+	            "text": "Buiten",
 	            "yoff": "4px"
 	        }
 	    ],
 	"view": {
 	        "hfov": 90,
 	        "pan": 134.74,
-	        "shortdescription": "Buitenterrein",
+	        "shortdescription": "Buiten",
 	        "tilt": 2.32
 	    }
 },

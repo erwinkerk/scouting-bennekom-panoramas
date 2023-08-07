@@ -42,7 +42,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "selterskampweg.html",
+	            "href": "selterskampweg-zuid.html",
 	            "opacity": "1.00;1.00",
 	            "position": "123.7906,6.7051",
 	            "target": "",
@@ -82,9 +82,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 288.22,
+	        "pan": 255.77,
 	        "shortdescription": "Inrit",
-	        "tilt": 4.85
+	        "tilt": 9.08
 	    }
 },
 "version": "4.1"

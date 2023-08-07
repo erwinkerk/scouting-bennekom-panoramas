@@ -59,9 +59,9 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "kampvuurkuil.html",
+	            "href": "kampvuurkuil-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "216.0976,4.1620",
+	            "position": "213.9024,5.1376",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
@@ -78,8 +78,13 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "middenterrein-1.html",
 	            "opacity": "1.00;1.00",
-	            "position": "205.1220,0.0160",
+	            "position": "206.6463,0.6257",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "\n\n"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -96,6 +101,113 @@ PanoramaStudioViewerParams = {
 	            "href": "tunneltje.html",
 	            "opacity": "1.00;1.00",
 	            "position": "325.1220,0.9915",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "kampvuurkuil-3.html",
+	            "opacity": "1.00;1.00",
+	            "position": "223.1707,1.2354",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "kampvuurkuil-2.html",
+	            "opacity": "1.00;1.00",
+	            "position": "212.4390,-2.1790",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "poort.html",
+	            "opacity": "1.00;1.00",
+	            "position": "192.1748,0.4428",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "middenterrein-2.html",
+	            "opacity": "1.00;1.00",
+	            "position": "187.8049,1.4590",
+	            "target": "",
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "drone-1.html",
+	            "opacity": "1.00;1.00",
+	            "position": "210.8740,-8.6014",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Drone"
+	            },
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "middenterrein-4.html",
+	            "opacity": "1.00;1.00",
+	            "position": "215.7520,0.6460",
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
