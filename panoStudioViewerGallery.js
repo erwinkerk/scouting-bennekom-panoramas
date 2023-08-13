@@ -3,9 +3,9 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "tunneltje-zuid.js",
-            "text": "Tunneltje",
-            "thumbnail": "tunneltje-zuid_tiles/tunneltje-zuid_thumb.jpg"
+            "href": "oost-breukelderweg.js",
+            "text": "Tunneltje van buiten",
+            "thumbnail": "oost-breukelderweg_tiles/oost-breukelderweg_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
@@ -118,11 +118,6 @@ PanoramaStudioViewerParams = {
             "thumbnail": "middenterrein_tiles/middenterrein_thumb.jpg"
         },
         {
-            "href": "oost-breukelderweg.js",
-            "text": "Tunneltje van buiten",
-            "thumbnail": "oost-breukelderweg_tiles/oost-breukelderweg_thumb.jpg"
-        },
-        {
             "href": "pad.js",
             "location": {
                 "alt": 73.349,
@@ -177,6 +172,11 @@ PanoramaStudioViewerParams = {
             "href": "tunneltje-noord.js",
             "text": "Tunneltje",
             "thumbnail": "tunneltje-noord_tiles/tunneltje-noord_thumb.jpg"
+        },
+        {
+            "href": "tunneltje-zuid.js",
+            "text": "Tunneltje",
+            "thumbnail": "tunneltje-zuid_tiles/tunneltje-zuid_thumb.jpg"
         },
         {
             "href": "welpen.js",

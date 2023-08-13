@@ -92,9 +92,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 359.17,
+	        "pan": 207.79,
 	        "shortdescription": "Tunneltje van buiten",
-	        "tilt": 1.24
+	        "tilt": 3.41
 	    }
 },
 "version": "4.1"
