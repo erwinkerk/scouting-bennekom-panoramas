@@ -46,6 +46,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "123.7906,6.7051",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de Selterskampweg"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -63,6 +68,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "282.4278,-0.3618",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "volg het pad naar het middenterrein"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }

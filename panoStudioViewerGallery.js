@@ -3,9 +3,9 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "inrit.js",
-            "text": "Inrit",
-            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
+            "href": "toilet.js",
+            "text": "Toilet",
+            "thumbnail": "toilet_tiles/toilet_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
@@ -24,18 +24,13 @@ PanoramaStudioViewerParams = {
         },
         {
             "href": "buiten-shanti.js",
-            "text": "Buiten",
+            "text": "Buiten bij Shantiwelpen",
             "thumbnail": "buiten-shanti_tiles/buiten-shanti_thumb.jpg"
         },
         {
             "href": "buiten-welpen.js",
-            "text": "Buiten",
+            "text": "Buiten bij Welpen",
             "thumbnail": "buiten-welpen_tiles/buiten-welpen_thumb.jpg"
-        },
-        {
-            "href": "buiten.js",
-            "text": "Buiten",
-            "thumbnail": "buiten_tiles/buiten_thumb.jpg"
         },
         {
             "href": "douche.js",
@@ -43,13 +38,13 @@ PanoramaStudioViewerParams = {
             "thumbnail": "douche_tiles/douche_thumb.jpg"
         },
         {
-            "href": "drone-1.js",
-            "text": "Drone",
-            "thumbnail": "drone-1_tiles/drone-1_thumb.jpg"
+            "href": "drone.js",
+            "text": "Middenterrein",
+            "thumbnail": "drone_tiles/drone_thumb.jpg"
         },
         {
             "href": "entree.js",
-            "text": "Entree",
+            "text": "Entree Hal",
             "thumbnail": "entree_tiles/entree_thumb.jpg"
         },
         {
@@ -61,6 +56,26 @@ PanoramaStudioViewerParams = {
             "href": "gang-2.js",
             "text": "Gang",
             "thumbnail": "gang-2_tiles/gang-2_thumb.jpg"
+        },
+        {
+            "href": "gang-3.js",
+            "text": "Gang",
+            "thumbnail": "gang-3_tiles/gang-3_thumb.jpg"
+        },
+        {
+            "href": "horabos.js",
+            "text": "Horabos",
+            "thumbnail": "horabos_tiles/horabos_thumb.jpg"
+        },
+        {
+            "href": "infobord.js",
+            "text": "Infobord",
+            "thumbnail": "infobord_tiles/infobord_thumb.jpg"
+        },
+        {
+            "href": "inrit.js",
+            "text": "Inrit",
+            "thumbnail": "inrit_tiles/inrit_thumb.jpg"
         },
         {
             "href": "kampvuurkuil-1.js",
@@ -98,27 +113,23 @@ PanoramaStudioViewerParams = {
             "thumbnail": "looppad-3_tiles/looppad-3_thumb.jpg"
         },
         {
-            "href": "middenterrein-1.js",
+            "href": "middenterrein.js",
             "text": "Middenterrein",
-            "thumbnail": "middenterrein-1_tiles/middenterrein-1_thumb.jpg"
+            "thumbnail": "middenterrein_tiles/middenterrein_thumb.jpg"
         },
         {
-            "href": "middenterrein-2.js",
-            "text": "Drone",
-            "thumbnail": "middenterrein-2_tiles/middenterrein-2_thumb.jpg"
-        },
-        {
-            "href": "middenterrein-3.js",
-            "text": "Middenterrein",
-            "thumbnail": "middenterrein-3_tiles/middenterrein-3_thumb.jpg"
-        },
-        {
-            "href": "middenterrein-4.js",
-            "text": "Middenterrein",
-            "thumbnail": "middenterrein-4_tiles/middenterrein-4_thumb.jpg"
+            "href": "oost-breukelderweg.js",
+            "text": "Oost-Breukelderweg",
+            "thumbnail": "oost-breukelderweg_tiles/oost-breukelderweg_thumb.jpg"
         },
         {
             "href": "pad.js",
+            "location": {
+                "alt": 73.349,
+                "heading": 259,
+                "lat": 52.00951897,
+                "lon": 5.686238972222222
+            },
             "text": "Pad",
             "thumbnail": "pad_tiles/pad_thumb.jpg"
         },
@@ -158,14 +169,14 @@ PanoramaStudioViewerParams = {
             "thumbnail": "splitsing_tiles/splitsing_thumb.jpg"
         },
         {
-            "href": "toilet.js",
-            "text": "Toilet",
-            "thumbnail": "toilet_tiles/toilet_thumb.jpg"
+            "href": "tunneltje-noord.js",
+            "text": "Tunneltje",
+            "thumbnail": "tunneltje-noord_tiles/tunneltje-noord_thumb.jpg"
         },
         {
-            "href": "tunneltje.js",
+            "href": "tunneltje-zuid.js",
             "text": "Tunneltje",
-            "thumbnail": "tunneltje_tiles/tunneltje_thumb.jpg"
+            "thumbnail": "tunneltje-zuid_tiles/tunneltje-zuid_thumb.jpg"
         },
         {
             "href": "welpen.js",

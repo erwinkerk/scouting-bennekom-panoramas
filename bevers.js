@@ -42,10 +42,15 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "gang-2.html",
+	            "href": "gang-3.html",
 	            "opacity": "1.00;1.00",
 	            "position": "33.2684,7.4717",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de gang"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -63,6 +68,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "99.8052,6.4933",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Welpen lokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -76,10 +86,15 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-3.html",
+	            "href": "middenterrein.html",
 	            "opacity": "1.00;1.00",
 	            "position": "238.9943,4.0473",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het middenterrein"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }

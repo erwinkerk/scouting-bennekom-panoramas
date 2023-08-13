@@ -46,6 +46,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "151.4373,7.1387",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar buiten"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -63,6 +68,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "282.8135,9.3405",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Bever lokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -76,10 +86,15 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "gang-2.html",
+	            "href": "gang-3.html",
 	            "opacity": "1.00;1.00",
-	            "position": "337.1254,6.8940",
+	            "position": "337.1254,7.1387",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de gang"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }

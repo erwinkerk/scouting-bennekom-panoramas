@@ -46,6 +46,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "77.2658,-1.4499",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Welpen lokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -61,8 +66,13 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "shanti-2.html",
 	            "opacity": "1.00;1.00",
-	            "position": "110.6431,-0.8967",
+	            "position": "109.5572,-2.8841",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Shantiwelpen lokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -80,6 +90,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "171.3125,-1.2655",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Padvindsters lokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -97,6 +112,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "189.5686,0.2097",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Beukenbos bij het Padvindsters lokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -114,6 +134,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "49.9738,8.6920",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het buiten terrein bij het Welpen lokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -129,25 +154,13 @@ PanoramaStudioViewerParams = {
 	            "bitmaptype": "floating",
 	            "href": "splitsing.html",
 	            "opacity": "1.00;1.00",
-	            "position": "41.4912,0.7629",
+	            "position": "41.2453,0.7629",
 	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de splitsing in het pad"
 	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "buiten.html",
-	            "opacity": "1.00;1.00",
-	            "position": "2.2948,13.9166",
-	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }
@@ -161,14 +174,14 @@ PanoramaStudioViewerParams = {
 	        {
 	            "align": "top",
 	            "style": " color:#ffffff; font-family: Arial,Helvetica,sans-serif; text-shadow: 0px 0px 3.8px #000000, 0px 0px 2.5px #000000, 0px 0px 1.7px #000000; font-size: 12px; font-weight: bold; text-align:center;",
-	            "text": "Buiten",
+	            "text": "Buiten bij Shantiwelpen",
 	            "yoff": "4px"
 	        }
 	    ],
 	"view": {
 	        "hfov": 90,
 	        "pan": 148.82,
-	        "shortdescription": "Buiten",
+	        "shortdescription": "Buiten bij Shantiwelpen",
 	        "tilt": -3.51
 	    }
 },

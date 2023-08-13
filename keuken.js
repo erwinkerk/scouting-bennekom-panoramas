@@ -27,9 +27,9 @@ PanoramaStudioViewerParams = {
 	    },
 	"camera": {
 	        "maxpan": 360,
-	        "maxtilt": 54.79099803023185,
+	        "maxtilt": 64.82456841502244,
 	        "minpan": 0,
-	        "mintilt": -48.460371725362805
+	        "mintilt": -64.75216583122287
 	    },
 	"hotspot": [
 	        {
@@ -42,10 +42,15 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "middenterrein-2.html",
+	            "href": "gang-3.html",
 	            "opacity": "1.00;1.00",
-	            "position": "162.6359,6.6301",
+	            "position": "186.4012,-0.2456",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de gang"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -59,61 +64,15 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "gang-2.html",
+	            "href": "middenterrein.html",
 	            "opacity": "1.00;1.00",
-	            "position": "347.7717,2.9004",
+	            "position": "0.8670,6.8640",
 	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het middenterrein"
 	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "kampvuurkuil-3.html",
-	            "opacity": "1.00;1.00",
-	            "position": "162.6970,1.1883",
-	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
-	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "kampvuurkuil-1.html",
-	            "opacity": "1.00;1.00",
-	            "position": "171.0122,2.5946",
-	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
-	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "kampvuurkuil-2.html",
-	            "opacity": "1.00;1.00",
-	            "position": "170.3397,-2.4803",
-	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }
@@ -122,7 +81,7 @@ PanoramaStudioViewerParams = {
 	        "visible": true
 	    },
 	"id": "keuken",
-	"image":{"baseindex":1,"bitmap":[{"back":{"src":"keuken_tiles/keuken_t_1b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_1d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_1f_%0y_%0x.jpg"},"height":5622,"left":{"src":"keuken_tiles/keuken_t_1l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_1u_%0y_%0x.jpg"},"width":5622},{"back":{"src":"keuken_tiles/keuken_t_2b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_2d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_2f_%0y_%0x.jpg"},"height":2811,"left":{"src":"keuken_tiles/keuken_t_2l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_2u_%0y_%0x.jpg"},"width":2811},{"back":{"src":"keuken_tiles/keuken_t_3b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_3d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_3f_%0y_%0x.jpg"},"height":1406,"left":{"src":"keuken_tiles/keuken_t_3l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_3u_%0y_%0x.jpg"},"width":1406},{"back":{"src":"keuken_tiles/keuken_t_4b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_4d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_4f_%0y_%0x.jpg"},"height":703,"left":{"src":"keuken_tiles/keuken_t_4l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_4u_%0y_%0x.jpg"},"width":703},{"back":{"src":"keuken_tiles/keuken_t_5b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_5d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_5f_%0y_%0x.jpg"},"height":352,"left":{"src":"keuken_tiles/keuken_t_5l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"keuken_tiles/keuken_t_5u_%0y_%0x.jpg"},"width":352}],"multilevel":true,"preview":{"src":"keuken_tiles/keuken_preview.jpg"},"projection":"cubic"},
+	"image":{"baseindex":1,"bitmap":[{"back":{"src":"keuken_tiles/keuken_t_1b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_1d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_1f_%0y_%0x.jpg"},"height":7930,"left":{"src":"keuken_tiles/keuken_t_1l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_1r_%0y_%0x.jpg"},"tilesize":496,"up":{"src":"keuken_tiles/keuken_t_1u_%0y_%0x.jpg"},"width":7930},{"back":{"src":"keuken_tiles/keuken_t_2b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_2d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_2f_%0y_%0x.jpg"},"height":3965,"left":{"src":"keuken_tiles/keuken_t_2l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_2r_%0y_%0x.jpg"},"tilesize":496,"up":{"src":"keuken_tiles/keuken_t_2u_%0y_%0x.jpg"},"width":3965},{"back":{"src":"keuken_tiles/keuken_t_3b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_3d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_3f_%0y_%0x.jpg"},"height":1983,"left":{"src":"keuken_tiles/keuken_t_3l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_3r_%0y_%0x.jpg"},"tilesize":496,"up":{"src":"keuken_tiles/keuken_t_3u_%0y_%0x.jpg"},"width":1983},{"back":{"src":"keuken_tiles/keuken_t_4b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_4d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_4f_%0y_%0x.jpg"},"height":992,"left":{"src":"keuken_tiles/keuken_t_4l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_4r_%0y_%0x.jpg"},"tilesize":496,"up":{"src":"keuken_tiles/keuken_t_4u_%0y_%0x.jpg"},"width":992},{"back":{"src":"keuken_tiles/keuken_t_5b_%0y_%0x.jpg"},"down":{"src":"keuken_tiles/keuken_t_5d_%0y_%0x.jpg"},"front":{"src":"keuken_tiles/keuken_t_5f_%0y_%0x.jpg"},"height":496,"left":{"src":"keuken_tiles/keuken_t_5l_%0y_%0x.jpg"},"right":{"src":"keuken_tiles/keuken_t_5r_%0y_%0x.jpg"},"tilesize":496,"up":{"src":"keuken_tiles/keuken_t_5u_%0y_%0x.jpg"},"width":496}],"multilevel":true,"preview":{"src":"keuken_tiles/keuken_preview.jpg"},"projection":"cubic"},
 	"textbox": [
 	        {
 	            "align": "top",
@@ -133,9 +92,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 192.72,
+	        "pan": 41.82,
 	        "shortdescription": "Keuken",
-	        "tilt": 16.88
+	        "tilt": 14.12
 	    }
 },
 "version": "4.1"

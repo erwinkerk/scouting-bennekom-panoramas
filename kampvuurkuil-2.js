@@ -7,7 +7,7 @@ PanoramaStudioViewerParams = {
     },
 "data": {
         "id": "globalData",
-        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#ffffff; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 100; text-align:left; box-shadow: 4px 4px 1px 0px rgba(0,0,0,0.33);background: rgba(0,0,0,0.66);"
+        "messageBoxStyle": "min-width: 25%; text-shadow: none; line-height: 100%; color:#000; font-family: Arial,Helvetica,Sans-Serif; font-size: 15px; font-weight: 400; text-align:left; border-radius: 3px; border: rgba(0,0,0,0.66) solid 1px; box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.66);background: rgba(255,255,255,0.75);"
     },
 "include": [
         {
@@ -46,6 +46,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "211.3733,18.9167",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het podium van de kampvuurkuil"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -63,6 +68,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "208.5550,73.1686",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de kampvuurkuil"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -76,10 +86,15 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "drone-1.html",
+	            "href": "drone.html",
 	            "opacity": "1.00;1.00",
 	            "position": "151.2493,-11.1449",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de drone-weergave van het middenterrein"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -97,6 +112,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "94.6483,1.3025",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Beverlokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -114,40 +134,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "335.4572,2.8682",
 	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Beukenbos"
 	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "middenterrein-4.html",
-	            "opacity": "1.00;1.00",
-	            "position": "170.9775,8.9549",
-	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
-	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "middenterrein-1.html",
-	            "opacity": "1.00;1.00",
-	            "position": "150.7013,4.7079",
-	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -165,40 +156,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "131.9322,3.2009",
 	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de poort"
 	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "middenterrein-3.html",
-	            "opacity": "1.00;1.00",
-	            "position": "108.2309,5.2559",
-	            "target": "",
-	            "transition": "zoomin,2;blend,2",
-	            "unit": "deg"
-	        },
-	        {
-	            "animation": {
-	                "duration": 1.28,
-	                "frames": 32,
-	                "height": 64,
-	                "width": 64
-	            },
-	            "bitmap": "pap_rings.png",
-	            "bitmapscale": "1.0",
-	            "bitmaptype": "floating",
-	            "href": "middenterrein-2.html",
-	            "opacity": "1.00;1.00",
-	            "position": "90.4208,9.2289",
-	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -216,6 +178,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "31.6473,0.7349",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het Beukenbos bij het Padvindsterslokaal"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -229,10 +196,15 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "tunneltje.html",
+	            "href": "oost-breukelderweg.html",
 	            "opacity": "1.00;1.00",
-	            "position": "294.4156,-0.7721",
+	            "position": "294.6504,-0.5372",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de Oost-Breukelderweg en het beschilderde tunneltje"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -250,6 +222,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "145.9258,2.5551",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het looppad naar de Selterskampweg"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -269,6 +246,28 @@ PanoramaStudioViewerParams = {
 	            "target": "",
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
+	        },
+	        {
+	            "animation": {
+	                "duration": 1.28,
+	                "frames": 32,
+	                "height": 64,
+	                "width": 64
+	            },
+	            "bitmap": "pap_rings.png",
+	            "bitmapscale": "1.0",
+	            "bitmaptype": "floating",
+	            "href": "middenterrein.html",
+	            "opacity": "1.00;1.00",
+	            "position": "108.0352,7.4088",
+	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar het middenterrein"
+	            },
+	            "transition": "zoomin,2;blend,2",
+	            "unit": "deg"
 	        }
 	    ],
 	"hotspots": {
@@ -286,9 +285,9 @@ PanoramaStudioViewerParams = {
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 131.23,
+	        "pan": 359.17,
 	        "shortdescription": "Kampvuurkuil van boven",
-	        "tilt": 7.5
+	        "tilt": 1.24
 	    }
 },
 "version": "4.1"

@@ -14,14 +14,6 @@ PanoramaStudioViewerParams = {
             "id": "hideGallery"
         },
         {
-            "func": "function(){ if (!this.viewer.fullEquirectangular()) return; this.viewer.panTo(this.viewer.getView().pan,0,100,1.0,0,'easeInOutSine',true); this.tween({'time': 1.0, 'lp': 0.0, 'transition': 'easeInOutSine', 'onInit' : function(a,dstParams){ a.lp=a.viewer.fisheyeDistortion(); }, 'onUpdate': function(a){ a.viewer.setFisheyeDistortion(a.lp);}}); }",
-            "id": "leaveLittlePlanet"
-        },
-        {
-            "func": "function(){ if (!this.viewer.fullEquirectangular()) return; this.viewer.panTo(this.viewer.getView().pan+90,90,150,1.0,0,'easeInOutSine',true); this.tween({'time': 1.0, 'lp': 1.0, 'transition': 'easeInOutSine', 'onInit' : function(a,dstParams){ a.lp=a.viewer.fisheyeDistortion(); }, 'onUpdate': function(a){ a.viewer.setFisheyeDistortion(a.lp);}}); }",
-            "id": "enterLittlePlanet"
-        },
-        {
             "func": "function(a){ var id = this.viewer.currentMBId; if (!!id&&(a.id!=id)){this.viewer.action('hideMessage');} if (a.id!=id){ var s=this.viewer.get('globalData'); if (s&&s.messageBoxStyle){ a.style = s.messageBoxStyle; }this.viewer.currentMBId=null; if (!this.viewer.isVRModeEnabled()){ this.viewer.add('textbox',a); this.viewer.currentMBId=a.id; } } }",
             "id": "showMessage"
         },
@@ -99,6 +91,18 @@ PanoramaStudioViewerParams = {
                     "priority": 3,
                     "skin": "shadow(3,2,2,rgba(0,0,0,1));copy(defaultSkin,0,0,64,64,0,0,28,28);shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,0,0,64,64,0,0,28,28);",
                     "skinactive": "shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,0,0,64,64,1,1,28,28);",
+                    "xoff": 0,
+                    "yoff": 0
+                },
+                {
+                    "align": "center",
+                    "id": "hotspotsButton",
+                    "index": 6,
+                    "onclick": "function(){ this.viewer.toggleHotspots(); }",
+                    "onscenechanged": "function(){ this.setVisible(this.viewer.hotspots()&&this.viewer.hotspots().length>0); } ",
+                    "priority": 1,
+                    "skin": "shadow(3,2,2,rgba(0,0,0,1));copy(defaultSkin,128,256,64,64,0,0,28,28);shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,128,256,64,64,0,0,28,28);",
+                    "skinactive": "shadow(3,0,0,rgba(0,0,0,1));copy(defaultSkin,128,256,64,64,1,1,28,28);",
                     "xoff": 0,
                     "yoff": 0
                 },
@@ -255,46 +259,6 @@ PanoramaStudioViewerParams = {
             "yoff": 2
         }
     ],
-"contextmenu": {
-        "id": "menu",
-        "items": [
-            {
-                "id": "fullscreenItem",
-                "onclick": "function(){ this.viewer.toggleFullscreen(); }",
-                "oninit": "function(){ this.caption = this.viewer.tr('Fullscreen'); if (!this.viewer.fullscreenSupported()) this.visible = false;  } "
-            },
-            {
-                "caption": "-"
-            },
-            {
-                "id": "normalView",
-                "onclick": "function(){  if (this.viewer.fisheyeDistortion()!=0.0){ this.viewer.action('leaveLittlePlanet'); } }",
-                "oninit": "function(){  this.caption = this.viewer.tr('Normal View'); }"
-            },
-            {
-                "id": "littlePlanetView",
-                "onclick": "function(){ if (this.viewer.fisheyeDistortion()!=1.0){ this.viewer.action('enterLittlePlanet'); } }",
-                "oninit": "function(){  this.caption = this.viewer.tr('LittlePlanet View'); }"
-            },
-            {
-                "caption": "-"
-            },
-            {
-                "id": "gyroItem",
-                "onclick": "function(){  var gb = this.get('gyrobutton'); if (gb){ gb.onclick(); } else { this.viewer.enableGyroscope(!this.viewer.gyroscopeEnabled()); } }",
-                "oninit": "function(){  this.caption = this.viewer.tr('Gyroscope Control'); }"
-            },
-            {
-                "caption": "-"
-            },
-            {
-                "onclick": "function(){ window.open('http://www.tshsoft.com','_blank'); }",
-                "oninit": "function(){  this.caption = this.viewer.tr('About PanoramaStudio...'); }"
-            }
-        ],
-        "onshow": "function(){ var view1 = this.getItem('normalView'); if (view1){ view1.visible = (this.viewer.webglAvailable && this.viewer.fullEquirectangular()) ? true : false; } var view2 = this.getItem('littlePlanetView'); if (view2){ view2.visible = (this.viewer.webglAvailable && this.viewer.fullEquirectangular())?true:false; } var gyro = this.getItem('gyroItem'); if (gyro){ gyro.visible = this.viewer.gyroAvailable?true:false; }  this.update(); }",
-        "style": "background-color: rgba(255,255,255,0.8); box-shadow: 4px 4px 4px rgba(0,0,0,0.5); border-radius: 3px;"
-    },
 "events": {
         "id": "mainEvents",
         "onexit": "function(){  var d=this.viewer.get('localData'); if (!!d&&d.infoTextBox){ this.viewer.action('hideMessage'); } this.viewer.gyroWasEnabled = this.viewer.gyroAvailable&&this.viewer.gyroscopeEnabled();\t}",
@@ -311,15 +275,6 @@ PanoramaStudioViewerParams = {
     },
 "settings": {
         "safeareamargin": "-8 -8 -8 -8"
-    },
-"translate": {
-        "de": {
-            "About PanoramaStudio...": "&Uuml;ber PanoramaStudio...",
-            "Fullscreen": "Vollbild",
-            "Gyroscope Control": "Gyroskop-Steuerung",
-            "LittlePlanet View": "LittlePlanet-Ansicht",
-            "Normal View": "Normale Ansicht"
-        }
     }
 }
 }

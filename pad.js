@@ -46,6 +46,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "169.7753,1.2664",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Naar de Selterskampweg"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        },
@@ -63,6 +68,11 @@ PanoramaStudioViewerParams = {
 	            "opacity": "1.00;1.00",
 	            "position": "304.1807,2.4862",
 	            "target": "",
+	            "textbox": {
+	                "align": "top",
+	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
+	                "text": "Volg het pad naar het middenterrein"
+	            },
 	            "transition": "zoomin,2;blend,2",
 	            "unit": "deg"
 	        }
@@ -72,6 +82,12 @@ PanoramaStudioViewerParams = {
 	    },
 	"id": "pad",
 	"image":{"baseindex":1,"bitmap":[{"back":{"src":"pad_tiles/pad_t_1b_%0y_%0x.jpg"},"down":{"src":"pad_tiles/pad_t_1d_%0y_%0x.jpg"},"front":{"src":"pad_tiles/pad_t_1f_%0y_%0x.jpg"},"height":5637,"left":{"src":"pad_tiles/pad_t_1l_%0y_%0x.jpg"},"right":{"src":"pad_tiles/pad_t_1r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"pad_tiles/pad_t_1u_%0y_%0x.jpg"},"width":5637},{"back":{"src":"pad_tiles/pad_t_2b_%0y_%0x.jpg"},"down":{"src":"pad_tiles/pad_t_2d_%0y_%0x.jpg"},"front":{"src":"pad_tiles/pad_t_2f_%0y_%0x.jpg"},"height":2819,"left":{"src":"pad_tiles/pad_t_2l_%0y_%0x.jpg"},"right":{"src":"pad_tiles/pad_t_2r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"pad_tiles/pad_t_2u_%0y_%0x.jpg"},"width":2819},{"back":{"src":"pad_tiles/pad_t_3b_%0y_%0x.jpg"},"down":{"src":"pad_tiles/pad_t_3d_%0y_%0x.jpg"},"front":{"src":"pad_tiles/pad_t_3f_%0y_%0x.jpg"},"height":1410,"left":{"src":"pad_tiles/pad_t_3l_%0y_%0x.jpg"},"right":{"src":"pad_tiles/pad_t_3r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"pad_tiles/pad_t_3u_%0y_%0x.jpg"},"width":1410},{"back":{"src":"pad_tiles/pad_t_4b_%0y_%0x.jpg"},"down":{"src":"pad_tiles/pad_t_4d_%0y_%0x.jpg"},"front":{"src":"pad_tiles/pad_t_4f_%0y_%0x.jpg"},"height":705,"left":{"src":"pad_tiles/pad_t_4l_%0y_%0x.jpg"},"right":{"src":"pad_tiles/pad_t_4r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"pad_tiles/pad_t_4u_%0y_%0x.jpg"},"width":705},{"back":{"src":"pad_tiles/pad_t_5b_%0y_%0x.jpg"},"down":{"src":"pad_tiles/pad_t_5d_%0y_%0x.jpg"},"front":{"src":"pad_tiles/pad_t_5f_%0y_%0x.jpg"},"height":353,"left":{"src":"pad_tiles/pad_t_5l_%0y_%0x.jpg"},"right":{"src":"pad_tiles/pad_t_5r_%0y_%0x.jpg"},"tilesize":480,"up":{"src":"pad_tiles/pad_t_5u_%0y_%0x.jpg"},"width":353}],"multilevel":true,"preview":{"src":"pad_tiles/pad_preview.jpg"},"projection":"cubic"},
+	"location": {
+	        "alt": 73.349,
+	        "heading": 259,
+	        "lat": 52.00951897,
+	        "lon": 5.686238972222222
+	    },
 	"textbox": [
 	        {
 	            "align": "top",
