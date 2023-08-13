@@ -42,7 +42,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "pap_rings.png",
 	            "bitmapscale": "1.0",
 	            "bitmaptype": "floating",
-	            "href": "tunneltje-noord.html",
+	            "href": "tunneltje-zuid.html",
 	            "opacity": "1.00;1.00",
 	            "position": "238.1946,2.5945",
 	            "target": "",
@@ -86,15 +86,15 @@ PanoramaStudioViewerParams = {
 	        {
 	            "align": "top",
 	            "style": " color:#ffffff; font-family: Arial,Helvetica,sans-serif; text-shadow: 0px 0px 3.8px #000000, 0px 0px 2.5px #000000, 0px 0px 1.7px #000000; font-size: 12px; font-weight: bold; text-align:center;",
-	            "text": "Oost-Breukelderweg",
+	            "text": "Tunneltje van buiten",
 	            "yoff": "4px"
 	        }
 	    ],
 	"view": {
 	        "hfov": 90,
-	        "pan": 206.67,
-	        "shortdescription": "Oost-Breukelderweg",
-	        "tilt": 10.03
+	        "pan": 359.17,
+	        "shortdescription": "Tunneltje van buiten",
+	        "tilt": 1.24
 	    }
 },
 "version": "4.1"
