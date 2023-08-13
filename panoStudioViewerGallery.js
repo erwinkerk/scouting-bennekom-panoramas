@@ -3,9 +3,9 @@ PanoramaStudioViewerParams = {
 {
     "gallery": [
         {
-            "href": "toilet.js",
-            "text": "Toilet",
-            "thumbnail": "toilet_tiles/toilet_thumb.jpg"
+            "href": "kampvuurkuil-3.js",
+            "text": "Kampvuurkuil - Podium",
+            "thumbnail": "kampvuurkuil-3_tiles/kampvuurkuil-3_thumb.jpg"
         },
         {
             "href": "beukenbos-1.js",
@@ -88,11 +88,6 @@ PanoramaStudioViewerParams = {
             "thumbnail": "kampvuurkuil-2_tiles/kampvuurkuil-2_thumb.jpg"
         },
         {
-            "href": "kampvuurkuil-3.js",
-            "text": "Kampvuurkuil - Podium",
-            "thumbnail": "kampvuurkuil-3_tiles/kampvuurkuil-3_thumb.jpg"
-        },
-        {
             "href": "keuken.js",
             "text": "Keuken",
             "thumbnail": "keuken_tiles/keuken_thumb.jpg"
@@ -167,6 +162,11 @@ PanoramaStudioViewerParams = {
             "href": "splitsing.js",
             "text": "Splitsing",
             "thumbnail": "splitsing_tiles/splitsing_thumb.jpg"
+        },
+        {
+            "href": "toilet.js",
+            "text": "Toilet",
+            "thumbnail": "toilet_tiles/toilet_thumb.jpg"
         },
         {
             "href": "tunneltje-noord.js",
